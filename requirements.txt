@@ -1,0 +1,14 @@
+flask
+gunicorn
+joblib
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+shap
+bayesian-optimization
+streamlit
+scikit-learn
+pandas
+joblib

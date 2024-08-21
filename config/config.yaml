@@ -1,0 +1,6 @@
+model:
+  path: "model/credit_risk_model.pkl"
+  scaler_path: "model/scaler.pkl"
+server:
+  host: "0.0.0.0"
+  port: 5000
